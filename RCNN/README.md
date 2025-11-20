@@ -32,7 +32,6 @@ dataset.zip
 
 1. Go to [Google Colab](https://colab.research.google.com)
 2. Create a new notebook
-3. Copy and run the following cells:
 
 ### Step 3: Mount Google Drive
 
