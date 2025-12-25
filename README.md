@@ -1,5 +1,5 @@
 # AgroPest (formerly _pesta-la-vista_)
-A collaboative project as part of UNSW's computer vision course to detect and classify insects from an agricultural image dataset. This project attempts to use image processing, machine learning and deep learning techniques to identify insets and assign them into one of the following classes:
+A collaboative project as part of UNSW's computer vision course to detect and classify insects from an agricultural image dataset. This project attempts to use image processing, machine learning and deep learning techniques to identify location of pests and assign them into one of the following classes:
 - ant
 - bee
 - beetle
