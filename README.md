@@ -53,7 +53,7 @@ Training is performed primarily in **Google Colab** for GPU acceleration, with d
 
 The dataset used across both models follows a directory hierarchy compatible with YOLO and custom loaders:
 
-
+```
 dataset/
 ├── train/
 │   ├── images/
@@ -64,7 +64,7 @@ dataset/
 └── test/
     ├── images/
     └── labels/
-
+```
 
 - Images are saved in JPEG or PNG format
 - Labels are in a text format compatible with YOLO or converted to Faster R-CNN input formats
@@ -128,14 +128,14 @@ After training, run models locally for inference.
 
 **Project directory:**
 
-
+```
 project_directory/
 ├── demo.py
 ├── faster_rcnn_mobilenet_AdamW30_dropout.pth
 ├── test/
     ├── images/
     └── labels/
-
+```
 
 **Install dependencies:**
 
